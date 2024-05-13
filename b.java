@@ -1,4 +1,1 @@
-int a;
-
-
-int c;
+class b{}
